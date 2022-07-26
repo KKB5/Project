@@ -1,0 +1,7 @@
+*{ Margin:0px;Padding:0px;}
+.wrapper{Width:100% ; float:left;}
+.data_center_0{Max-width:400px; Margin:0px auto;}
+.header_section{width:100%; float:left; Min-height:50px;  background-color:blue;} 
+.header_section:hover{background-color:red;}
+.menu_section{width:100%; float:left; Min-height:60px; background-color:red;}
+.menu_section:hover{background-color:blue;}
